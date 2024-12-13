@@ -13,18 +13,12 @@ Before getting started, ensure you have the following installed:
 
 Follow these steps to set up the Playwright project:
 
-1. **Clone the repository (if applicable)**:
-    ```bash
-    git clone <repository-url>
-    cd <project-directory>
-    ```
-
-2. Playwright and other dependencies can be installed using npm. In the project directory, run:
+1. Playwright and other dependencies can be installed using npm. In the project directory, run:
     ```bash
     npm install
     ```
 
-3. Playwright requires additional dependencies. Run the following command to install Playwright and its necessary browser binaries:
+2. Playwright requires additional dependencies. Run the following command to install Playwright and its necessary browser binaries:
     ```bash
     npx playwright install
 
